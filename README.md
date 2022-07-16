@@ -1,4 +1,5 @@
 - **Hi i'm KaSs**
 - **i'm 14 years old**
-- **i'm programmer**
-- 
+- **i'm programmer ♔ : JavaScript, Python**
+- **Discord :**
+-     ♔・ ˚₊·-͟͟͞ 𝐊α𝐒s.             ˚#5208
