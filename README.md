@@ -49,7 +49,7 @@ English|en
 
 # thanks :
 > ali dev#7705 and Sphinx#8609
-Because they helped me create this package
+- Because they helped me create this package
 
 > ZAMPX#0063
-لاecause he shared my package
+- Because he shared my package
