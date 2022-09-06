@@ -1,4 +1,4 @@
-- **Hi i'm KaSs**
+- **Hi i'm Rus**
 - **i'm 14 years old**
 - **i'm programmer ♔ : JavaScript -> Discord.js**
-- **Discord :** KaSs | KG#5208
+- **Discord :** Rus | KG#5208
