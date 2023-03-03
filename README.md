@@ -1,4 +1,4 @@
 - **Hi i'm Rus**
-- **i'm 14 years old**
-- **i'm programmer ♔ : JavaScript -> Discord.js**
-- **Discord :** Rus | KG#5208
+- **i'm 15 years old**
+- **i'm programmer ♔ : JavaScript -> Discord.js : Python : HTML, Css**
+- **Discord :** - 'Rus   "#5208
