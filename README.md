@@ -1,4 +1,4 @@
-- **Hi i'm Rus**
-- **i'm 15 years old**
-- **i'm programmer ♔ : JavaScript -> Discord.js : Python : HTML, Css**
-- **Discord :** - 'Rus   "#5208
+- **Hi i'm NazF 🩸**
+- **i'm 15 years old 🎗️**
+- **i'm programmer 🖥️ : JavaScript -> Discord.js | Python | HTML, Css**
+- **Discord 🔓 :** qo0.
