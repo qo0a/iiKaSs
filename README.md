@@ -1,4 +1,11 @@
+## Who me ?
 - **Hi i'm NazF 🩸**
 - **i'm 15 years old 🎗️**
-- **i'm programmer 🖥️ : JavaScript -> Discord.js | Python | HTML, Css**
-- **Discord 🔓 :** qo0.
+- **i'm programmer 🖥️ :**
+  - **JavaScript -> Discord.js**
+  - **Python**
+  - **HTML, Css**
+- **Social media 🔓 :**
+  - **Discord 🔰 :** 🔒
+  - **Instagram 🔰 :** 🔒
+  - **other.. 🔰 :** 🔒
