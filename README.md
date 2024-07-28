@@ -3,7 +3,7 @@
 
 ## Who me ?
 - **Hi, I'm NazF 🩸**
-- **I'm <t:1204685100:R> ♾️**
+- **I'm 16 years old ♾️**
 - **I'm a programmer 🖥️ :**
   - **JavaScript** ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white)
   - **Python** ![Python](https://img.shields.io/badge/Python-yellow?style=flat-square&logo=python&logoColor=white)
@@ -22,7 +22,7 @@
 
 ## من أنا ؟
 - **مرحبًا، أنا نازف 🩸**
-- **عمري <t:1204685100:R> ♾️**
+- **عمري 16 سنة ♾️**
 - **أنا مبرمج 🖥️ :**
   - **جافا سكريبت** ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white)
   - **بايثون** ![Python](https://img.shields.io/badge/Python-yellow?style=flat-square&logo=python&logoColor=white)
